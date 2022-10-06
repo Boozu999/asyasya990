@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @asyasya990
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- I can not speak English.
-
-
-<!---
-asyasya990/asyasya990 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello.
+I made nothing so I think you don't have to see my profile.
+And I'm not able to write and speak English.
+I love Japanese.
+I want to use Japanese now.
